@@ -7,7 +7,6 @@ import 'package:shoe_app/screens/home_screen.dart';
 import 'package:shoe_app/screens/profile_screen.dart';
 import 'package:shoe_app/screens/search_screen.dart';
 import 'package:shoe_app/widgets/bottom_nav_bar_widget.dart';
-import 'package:shoe_app/widgets/bottom_nav_item_widget.dart';
 
 class MainScreen extends StatelessWidget {
   MainScreen({super.key});
